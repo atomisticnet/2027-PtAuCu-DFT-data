@@ -1,0 +1,347 @@
+#===============================================================================
+# Created using the Atomic Simulation Environment (ASE)
+
+# Mon Jan 26 14:57:31 2026
+
+#=======================================================
+lattice_vector 10.8927610215677895 0.0000000000000000 0.0000000000000000 
+lattice_vector 5.2605830155730704 9.5382655136691792 0.0000000000000000 
+lattice_vector 0.0000000000000000 0.0000000000000000 32.8793976341923866 
+atom_frac 0.0000000000000005 0.2499999999999995 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2499999999999998 0.2499999999999995 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2500000000000002 0.0000000000000000 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0000000000000000 0.0000000000000000 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3371673690761005 0.0871673690761002 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0871673690761002 0.0871673690761002 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0871673690761002 0.3371673690761007 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3371673690761004 0.3371673690761007 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1743347381522004 0.4243347381522010 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.4243347381522006 0.4243347381522010 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.4243347381522006 0.1743347381522004 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1743347381522004 0.1743347381522004 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0179920835931718 0.2679897766827375 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2678584068030327 0.2678581068166995 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2679898272423510 0.0179921113917413 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0178686949440868 0.0178686074690195 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3606003674977662 0.1105947769075122 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1131765007856902 0.1131758817275236 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1105949943830063 0.3606001571267346 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3631676407426808 0.3631676012569210 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1924503314105085 0.4437242115826996 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.4442445628743183 0.4440151936091532 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.4428560263511398 0.1929310026369583 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.1942203859490869 0.1942459384243405 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.0290144374172047 0.2788354412005527 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.2798972180496583 0.2788313866080668 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.2794481506486260 0.0293953285587396 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.0297004713268062 0.0293975865772662 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.3648810749426823 0.1148516152532530 0.4819138296919803 Pt
+    initial_moment         1.000000
+atom_frac 0.1142944391458389 0.1146417026171883 0.4784310752998521 Pt
+    initial_moment         1.000000
+atom_frac 0.1152520892660696 0.3664070836693095 0.4778272870458416 Pt
+    initial_moment         1.000000
+atom_frac 0.3643641573592313 0.3654883438244659 0.4784085593397401 Pt
+    initial_moment         1.000000
+atom_frac -0.0000000000000000 0.7499999999999996 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2500000000000002 0.7499999999999996 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2499999999999998 0.5000000000000000 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac -0.0000000000000005 0.5000000000000000 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3371673690761000 0.5871673690761002 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0871673690761006 0.5871673690761002 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0871673690760997 0.8371673690761008 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3371673690761000 0.8371673690761008 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1743347381521999 0.9243347381522010 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.4243347381522001 0.9243347381522010 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.4243347381522011 0.6743347381522005 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1743347381522009 0.6743347381522005 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0179921380583594 0.7679898533233457 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2678585446754541 0.7678575991940910 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.2679900062180994 0.5179921995396114 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.0178682028763847 0.5178688725810586 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3606002139411343 0.6105949939580512 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1131766045863849 0.6131763627917814 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1105956077048905 0.8605994639941468 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.3631675310281671 0.8631660254146383 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.1927875117093163 0.9427855991891202 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.4442282859605430 0.9442817063135158 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.4429692059963999 0.6929569234876859 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.1943286463543563 0.6940721342678091 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.0288642177143715 0.7788873265822799 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.2793624276795210 0.7796601724922674 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.2788177394728932 0.5288657154236406 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.0295597729933045 0.5292866139981629 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.3661100308673718 0.6151956133599448 0.4782872392757662 Pt
+    initial_moment         1.000000
+atom_frac 0.1149727743798306 0.6156801304305198 0.4789914755590962 Pt
+    initial_moment         1.000000
+atom_frac 0.1154030636927952 0.8653966153036401 0.4783200903969995 Pt
+    initial_moment         1.000000
+atom_frac 0.3646358920376285 0.8643236866561009 0.4784259135248425 Pt
+    initial_moment         1.000000
+atom_frac 0.5000000000000000 0.2499999999999995 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7500000000000002 0.2499999999999995 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7499999999999997 0.0000000000000000 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5000000000000004 0.0000000000000000 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8371673690761008 0.0871673690761002 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5871673690761007 0.0871673690761002 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5871673690760997 0.3371673690761007 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8371673690760999 0.3371673690761007 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6743347381522008 0.4243347381522010 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.9243347381522001 0.4243347381522010 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.9243347381522011 0.1743347381522004 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6743347381522009 0.1743347381522004 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5179921944723695 0.2679899657754806 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7678577501945387 0.2678585268427592 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7679897954393817 0.0179921483024846 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5178690541143944 0.0178692964147194 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8605996654194542 0.1105952735223929 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6131758024370249 0.1131761756453387 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6105946774872743 0.3606003830132511 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8631659602184796 0.3631675075675015 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6929115855294204 0.4428651014923384 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.9440633196307171 0.4440736382845287 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.9429127677004734 0.1930217628889447 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.6940416133101204 0.1941839556709388 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.5289012749334205 0.2789124405044264 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.7794663121716554 0.2792716952178900 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.7788915094213342 0.0287894748354570 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.5288755624095410 0.0299692144550892 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.8652663658106644 0.1160217417516485 0.4782824235588727 Pt
+    initial_moment         1.000000
+atom_frac 0.6155789790453032 0.1145086393651623 0.4784195347165352 Pt
+    initial_moment         1.000000
+atom_frac 0.6155826681010392 0.3656271648525677 0.4781800000140253 Pt
+    initial_moment         1.000000
+atom_frac 0.8648809812495650 0.3652625280505573 0.4787981480599863 Pt
+    initial_moment         1.000000
+atom_frac 0.5000000000000003 0.7499999999999996 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7499999999999997 0.7499999999999996 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7500000000000002 0.5000000000000000 0.0000000000000000 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5000000000000000 0.5000000000000000 0.0000000000000000 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8371673690761003 0.5871673690761002 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5871673690761002 0.5871673690761002 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5871673690761002 0.8371673690761008 0.0679734078202782 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8371673690761006 0.8371673690761008 0.0679734078202782 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6743347381522004 0.9243347381522010 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.9243347381522005 0.9243347381522010 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.9243347381522005 0.6743347381522005 0.1359468156405564 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6743347381522004 0.6743347381522005 0.1359468156405564 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5179922228352272 0.7679898863557614 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7678578886876376 0.7678582125667920 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.7679899168728083 0.5179921952434510 0.2031939301230800 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.5178695557391950 0.5178697605106385 0.2045017596569058 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8605994955917039 0.6105955432966192 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6131759248538680 0.6131764409148047 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6105952801428041 0.8605996288070162 0.2728252339026492 Cu
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.8631660415735617 0.8631659241090920 0.2713117732512445 Au
+    constrain_relaxation .true.
+    initial_moment         1.000000
+atom_frac 0.6936813791010417 0.9424589944158527 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.9440221543426198 0.9444102589397766 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.9428205316675383 0.6929067986583374 0.3386718647590633 Pt
+    initial_moment         1.000000
+atom_frac 0.6940458292206362 0.6940662747055890 0.3403949050673238 Pt
+    initial_moment         1.000000
+atom_frac 0.5288222607575972 0.7790613210391493 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.7792013135860288 0.7795603039660431 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.7788908802068316 0.5288900221861308 0.4084219732538895 Pt
+    initial_moment         1.000000
+atom_frac 0.5293491646190324 0.5295095520606700 0.4063097272182684 Pt
+    initial_moment         1.000000
+atom_frac 0.8657127159285128 0.6156994801107958 0.4782183857217036 Pt
+    initial_moment         1.000000
+atom_frac 0.6153049047862138 0.6149588200260427 0.4788625396815360 Pt
+    initial_moment         1.000000
+atom_frac 0.6163663076086392 0.8653518460391378 0.4778272479016544 Pt
+    initial_moment         1.000000
+atom_frac 0.8655913921179539 0.8649042329185200 0.4789368249345614 Pt
+    initial_moment         1.000000
+atom_frac 0.3669150097857622 0.1169382922871259 0.5287577388607120 H
+    initial_moment         1.000000
